@@ -1,0 +1,10 @@
+{
+  "name": "@repo/frontend-repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@repo/shared": "*",
+    "@mui/material": "^5.14.18",
+    "next": "14.0.3",
+    "react": "^18.2.0"
+  }
+}
